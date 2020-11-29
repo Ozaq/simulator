@@ -34,5 +34,8 @@
 # vscode workspace file
 *.code-workspace
 
+# local vim configuration
+.vim
+
 # pycache
 __pycache__/
